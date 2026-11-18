@@ -29,7 +29,7 @@ pip install uz-translit          # once published on PyPI
 pip install git+https://github.com/shoyimovkozimbek-creator/uz-translit
 ```
 
-Python 3.8+, no dependencies.
+Python 3.9+, no dependencies.
 
 ## API
 
